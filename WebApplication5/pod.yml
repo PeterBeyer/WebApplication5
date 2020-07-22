@@ -1,10 +1,10 @@
 ﻿apiVersion: v1
 kind: Pod
 metadata:
-   name: webapp5-10
+   name: webapp5-11
 spec:
    containers:
-   - name: webapp5-10
+   - name: webapp5-11
      image: webapplication5:v1
      ports:
      - containerPort: 80
