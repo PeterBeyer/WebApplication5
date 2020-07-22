@@ -5,6 +5,6 @@ metadata:
 spec:
    containers:
    - name: webapp5
-     image: webapplication5:latest
+     image: webapplication5:v1
      ports:
      - containerPort: 80
